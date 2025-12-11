@@ -57,13 +57,12 @@ H1 / H2 / H3 ↔ برگشت به P
 
 ### ۱) فایل‌ها را اضافه کنید:
 ```html
-<link rel="stylesheet" href="icditor.css" />
-<script src="icditor.js"></script>
+<script src="ic-ditor.js"></script>
 ```
 
 ### ۲) المنت موردنظر را اضافه کنید:
 ```html
-<textarea data-editor="true" data-count="true"></textarea>
+<textarea data-editor data-count="true" data-fonts="IRANSans,Yekan,Times New Roman"></textarea>
 ```
 
 ### ۳) آماده است!  
@@ -110,5 +109,4 @@ Free for personal + commercial use.
 **Iman Yazdani Charati – iClassic Team**  
 ```
 icDitor - Lightweight RTL Friendly Editor
-```
 ```
